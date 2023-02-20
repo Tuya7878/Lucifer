@@ -1,4 +1,5 @@
-# -*- coding: UTF-8 -*-
+cp lucifer 
+# -*- coding: UT-8 -*-
 # Herramienta  : Lucifer
 # Author       : Vampy Security
 """
